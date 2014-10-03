@@ -1,0 +1,11 @@
+To incorporate alarm_mega, the following changes were required:
+
+CREATE:
+alarm-mega.ck
+
+UPDATE:
+tests.c
+tests.h
+Rubric.alarm
+Make.tests
+alarm-wait.c
